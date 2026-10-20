@@ -1,0 +1,7 @@
+# Ninja Gaiden II: The Dark Sword of Chaos (USA) - NESRecomp cycle backend
+# Mapper 4 (MMC3), 128 KB PRG, 128 KB CHR, horizontal mirroring.
+
+[game]
+output_prefix = "Ninja-Gaiden-II---The-Dark-Sword-of-Chaos-USA"
+cycle_accurate = true
+cycle_seed_file = "cyc_seeds.txt"

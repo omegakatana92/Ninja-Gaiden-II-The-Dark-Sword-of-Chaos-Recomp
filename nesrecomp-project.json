@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "tool": "nesrecomp",
+  "tool_version": "0.4.2",
+  "project_name": "Ninja-Gaiden-II---The-Dark-Sword-of-Chaos-USA",
+  "source_rom_name": "Ninja Gaiden II - The Dark Sword of Chaos (USA).nes",
+  "used_game_config": false,
+  "backend": "cycle",
+  "generated_at_unix": 1792519436
+}
